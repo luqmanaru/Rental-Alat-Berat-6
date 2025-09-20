@@ -1,4 +1,4 @@
-# README.md untuk Rental-Alat-Berat-6
+# Rental-Alat-Berat-6
 
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-3.x-orange.svg)
 ![PHP](https://img.shields.io/badge/PHP-7.x-blue.svg)
